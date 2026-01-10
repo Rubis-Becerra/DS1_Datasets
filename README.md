@@ -1,10 +1,14 @@
 # Python Datasets for Data Science
+
 Este repositorio reúne datasets en formato CSV y un notebook de exploración utilizados para prácticas y proyectos de Data Science / Análisis de Datos.
 
 ## 🧠 Objetivos del proyecto
 •	Practicar carga y exploración de datasets con Python y Pandas.
+
 •	Aplicar conceptos de EDA (Exploratory Data Analysis).
+
 •	Mantener una estructura de repositorio ordenada y escalable.
+
 •	Servir como base reutilizable para futuros proyectos de Data Science.
 
 ## 📁 Repository Structure
@@ -23,7 +27,9 @@ Python_Datasets_DS1/
 
 ## 📁 Datasets incluidos
 🥛 Dairy Dataset: Producción y ventas del sector lácteo.
+
 💊 Pharma Retail Dataset: Ventas minoristas del sector farmacéutico.
+
 ⚡ Renewable Energy Dataset: Generación y consumo de energías renovables.
 
 ## 🛠️ Tech Stack
@@ -37,7 +43,9 @@ Python_Datasets_DS1/
 ## Cómo utilizar este repositorio
 1.	Clonar el repositorio:
 git clone https://github.com/Rubis-Becerra/Python_Datasets_DS1.git
+
 2.	Abrir el notebook Datasets+Becerra.ipynb
+
 3.	Ejecutar las celdas para explorar los datasets
 
 ## Autora
