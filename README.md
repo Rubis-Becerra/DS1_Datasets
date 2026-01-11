@@ -18,7 +18,7 @@ Python_Datasets_DS1/
 ├── Datasets+Becerra.ipynb    # Main analysis notebook
 │
 ├── data/                    # Datasets folder
-│   ├── dairy_dataset.csv
+│   ├── beauty_sales_unilever.csv
 │   ├── pharma_data_retail.csv
 │   └── renewable_energy.csv
 │
@@ -26,7 +26,7 @@ Python_Datasets_DS1/
 ```
 
 ## 📁 Datasets incluidos
-🥛 Dairy Dataset: Producción y ventas del sector lácteo.
+💄 Beauty Sales Dataset: Desempeño Comercial y Engagement del Consumidor en Productos de Belleza.
 
 💊 Pharma Retail Dataset: Ventas minoristas del sector farmacéutico.
 
