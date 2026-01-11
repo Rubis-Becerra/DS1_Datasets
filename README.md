@@ -42,7 +42,7 @@ Python_Datasets_DS1/
 
 ## Cómo utilizar este repositorio
 1.	Clonar el repositorio:
-git clone https://github.com/Rubis-Becerra/Python_Datasets_DS1.git
+git clone https://github.com/Rubis-Becerra/DS1_Datasets.git
 
 2.	Abrir el notebook Datasets+Becerra.ipynb
 
